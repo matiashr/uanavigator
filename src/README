@@ -1,0 +1,35 @@
+About
+------------
+UaNavigator is a console based OPC-UA server viewer.
+It can be used for the following:
+* read/writing variables
+* browsing server namespaces
+* method calling (still work in progress)
+
+At time of writing it does not support:
+* complex types such as structs, unions etc
+* encryption ( simple to add)
+
+The program has been tested with Beckhoff PLC's and seems to work with them.
+The software has only been tested on linux.
+
+
+
+
+The program is written in C++11 using open62541 and finalcut tui.
+
+
+License
+------------
+UaNavigator license is GPL3.
+
+
+(c) 2020 Matias Henttunen
+mattimo@gmail.com
+
+
+Some notes, you can stop reading now...
+-----------------------------------------
+	setGeometry (FPoint{10, 2}, FSize{55, 12});
+					   ^----bredd
+					  	^----- höjd
