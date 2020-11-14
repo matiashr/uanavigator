@@ -1,5 +1,6 @@
 # uanavigator
 OPC-Ua console program
+![alt text](img/img.png)
 
 Build instructions:
 install finalcut library 
