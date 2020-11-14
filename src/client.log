@@ -1,266 +1,283 @@
-[2020-11-15 00:20:30.783 (UTC+0100)] */*	No port defined, using default port 4840
-[2020-11-15 00:20:30.820 (UTC+0100)] */*	Connection 4 | SecureChannel 4292871330 | Opened SecureChannel with SecurityPolicy http://opcfoundation.org/UA/SecurityPolicy#None
-[2020-11-15 00:20:30.820 (UTC+0100)] */*	Client Status: ChannelState: Open, SessionState: Closed, ConnectStatus: Good
-[2020-11-15 00:20:30.843 (UTC+0100)] */*	Selected Endpoint opc.tcp://CX-18EC19:4840 with SecurityMode None and SecurityPolicy http://opcfoundation.org/UA/SecurityPolicy#None
-[2020-11-15 00:20:30.843 (UTC+0100)] */*	Selected UserTokenPolicy Anonymous with UserTokenType Anonymous and SecurityPolicy http://opcfoundation.org/UA/SecurityPolicy#None
-[2020-11-15 00:20:30.857 (UTC+0100)] */*	Client Status: ChannelState: Open, SessionState: Created, ConnectStatus: Good
-[2020-11-15 00:20:30.875 (UTC+0100)] */*	Client Status: ChannelState: Open, SessionState: Activated, ConnectStatus: Good
-[2020-11-15 00:20:30.888 (UTC+0100)] */*	Browse response
-[2020-11-15 00:20:30.888 (UTC+0100)] */*	resp:0
-[2020-11-15 00:20:30.888 (UTC+0100)] */*	N) 0         61               FolderType       FolderType      
+[2020-11-15 00:49:24.124 (UTC+0100)] */*	No port defined, using default port 4840
+[2020-11-15 00:49:24.155 (UTC+0100)] */*	Connection 4 | SecureChannel 4292871332 | Opened SecureChannel with SecurityPolicy http://opcfoundation.org/UA/SecurityPolicy#None
+[2020-11-15 00:49:24.155 (UTC+0100)] */*	Client Status: ChannelState: Open, SessionState: Closed, ConnectStatus: Good
+[2020-11-15 00:49:24.169 (UTC+0100)] */*	Selected Endpoint opc.tcp://CX-18EC19:4840 with SecurityMode None and SecurityPolicy http://opcfoundation.org/UA/SecurityPolicy#None
+[2020-11-15 00:49:24.169 (UTC+0100)] */*	Selected UserTokenPolicy Anonymous with UserTokenType Anonymous and SecurityPolicy http://opcfoundation.org/UA/SecurityPolicy#None
+[2020-11-15 00:49:24.179 (UTC+0100)] */*	Client Status: ChannelState: Open, SessionState: Created, ConnectStatus: Good
+[2020-11-15 00:49:24.197 (UTC+0100)] */*	Client Status: ChannelState: Open, SessionState: Activated, ConnectStatus: Good
+[2020-11-15 00:49:24.208 (UTC+0100)] */*	Browse response
+[2020-11-15 00:49:24.208 (UTC+0100)] */*	resp:0
+[2020-11-15 00:49:24.208 (UTC+0100)] */*	N) 0         61               FolderType       FolderType      
 
-[2020-11-15 00:20:30.888 (UTC+0100)] */*	N) 0         2253             Server           Server          
+[2020-11-15 00:49:24.208 (UTC+0100)] */*	N) 0         2253             Server           Server          
 
-[2020-11-15 00:20:30.896 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:30.904 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:30.912 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:30.919 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:30.928 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:30.936 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:30.944 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:30.951 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:30.958 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:30.964 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:30.971 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:30.978 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:30.986 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:30.993 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.000 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.008 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.015 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.023 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.030 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.039 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.048 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.056 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.063 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.070 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.079 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.087 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.095 (UTC+0100)] */*	Browse response
-[2020-11-15 00:20:31.095 (UTC+0100)] */*	resp:0
-[2020-11-15 00:20:31.095 (UTC+0100)] */*	N) 0         61               FolderType       FolderType      
+[2020-11-15 00:49:24.216 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.223 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.230 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.238 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.245 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.254 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.261 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.268 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.275 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.282 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.288 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.295 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.302 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.309 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.316 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.324 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.339 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.348 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.355 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.362 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.370 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.377 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.385 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.391 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.399 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.406 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.413 (UTC+0100)] */*	Browse response
+[2020-11-15 00:49:24.413 (UTC+0100)] */*	resp:0
+[2020-11-15 00:49:24.413 (UTC+0100)] */*	N) 0         61               FolderType       FolderType      
 
-[2020-11-15 00:20:31.095 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_SecureChannel SecureChannel    SecureChannel   
+[2020-11-15 00:49:24.413 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_SecureChannel SecureChannel    SecureChannel   
 
-[2020-11-15 00:20:31.095 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_SecureChannelCumulated SecureChannelCumulated SecureChannelCumulated
+[2020-11-15 00:49:24.413 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_SecureChannelCumulated SecureChannelCumulated SecureChannelCumulated
 
-[2020-11-15 00:20:31.095 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_Session Session          Session         
+[2020-11-15 00:49:24.413 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_Session Session          Session         
 
-[2020-11-15 00:20:31.095 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_UaNode UaNode           UaNode          
+[2020-11-15 00:49:24.413 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_UaNode UaNode           UaNode          
 
-[2020-11-15 00:20:31.095 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_UaReference UaReference      UaReference     
+[2020-11-15 00:49:24.413 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_UaReference UaReference      UaReference     
 
-[2020-11-15 00:20:31.095 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_UaObject UaObject         UaObject        
+[2020-11-15 00:49:24.413 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_UaObject UaObject         UaObject        
 
-[2020-11-15 00:20:31.095 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_UaObjectType UaObjectType     UaObjectType    
+[2020-11-15 00:49:24.413 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_UaObjectType UaObjectType     UaObjectType    
 
-[2020-11-15 00:20:31.095 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_UaVariable UaVariable       UaVariable      
+[2020-11-15 00:49:24.413 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_UaVariable UaVariable       UaVariable      
 
-[2020-11-15 00:20:31.095 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_UaVariableType UaVariableType   UaVariableType  
+[2020-11-15 00:49:24.413 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_UaVariableType UaVariableType   UaVariableType  
 
-[2020-11-15 00:20:31.095 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_UaDataType UaDataType       UaDataType      
+[2020-11-15 00:49:24.413 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_UaDataType UaDataType       UaDataType      
 
-[2020-11-15 00:20:31.095 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_UaView UaView           UaView          
+[2020-11-15 00:49:24.413 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_UaView UaView           UaView          
 
-[2020-11-15 00:20:31.095 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_UaMethod UaMethod         UaMethod        
+[2020-11-15 00:49:24.413 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_UaMethod UaMethod         UaMethod        
 
-[2020-11-15 00:20:31.095 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_UaReferenceType UaReferenceType  UaReferenceType 
+[2020-11-15 00:49:24.413 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_UaReferenceType UaReferenceType  UaReferenceType 
 
-[2020-11-15 00:20:31.095 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_UaMutex UaMutex          UaMutex         
+[2020-11-15 00:49:24.413 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_UaMutex UaMutex          UaMutex         
 
-[2020-11-15 00:20:31.095 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_Subscription Subscription     Subscription    
+[2020-11-15 00:49:24.413 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_Subscription Subscription     Subscription    
 
-[2020-11-15 00:20:31.095 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_MonitoredItemData MonitoredItemData MonitoredItemData
+[2020-11-15 00:49:24.413 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_MonitoredItemData MonitoredItemData MonitoredItemData
 
-[2020-11-15 00:20:31.095 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_MonitoredItemEvent MonitoredItemEvent MonitoredItemEvent
+[2020-11-15 00:49:24.413 (UTC+0100)] */*	oBjS) 1         ObjectStatistics_MonitoredItemEvent MonitoredItemEvent MonitoredItemEvent
 
-[2020-11-15 00:20:31.102 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.102 (UTC+0100)] */*	N) 2         5001             DeviceSet        DeviceSet       
+[2020-11-15 00:49:24.420 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.420 (UTC+0100)] */*	N) 2         5001             DeviceSet        DeviceSet       
 
-[2020-11-15 00:20:31.109 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.117 (UTC+0100)] */*	Browse response
-[2020-11-15 00:20:31.117 (UTC+0100)] */*	resp:0
-[2020-11-15 00:20:31.117 (UTC+0100)] */*	oBjS) 1         DefaultBeckhoffConfigurationType DefaultBeckhoffConfigurationType DefaultBeckhoffConfigurationType
+[2020-11-15 00:49:24.427 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.435 (UTC+0100)] */*	Browse response
+[2020-11-15 00:49:24.435 (UTC+0100)] */*	resp:0
+[2020-11-15 00:49:24.435 (UTC+0100)] */*	oBjS) 1         DefaultBeckhoffConfigurationType DefaultBeckhoffConfigurationType DefaultBeckhoffConfigurationType
 
-[2020-11-15 00:20:31.117 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.DeviceManual DeviceManual     DeviceManual    
+[2020-11-15 00:49:24.435 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.DeviceManual DeviceManual     DeviceManual    
 
-[2020-11-15 00:20:31.117 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.DeviceRevision DeviceRevision   DeviceRevision  
+[2020-11-15 00:49:24.435 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.DeviceRevision DeviceRevision   DeviceRevision  
 
-[2020-11-15 00:20:31.117 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.HardwareRevision HardwareRevision HardwareRevision
+[2020-11-15 00:49:24.435 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.HardwareRevision HardwareRevision HardwareRevision
 
-[2020-11-15 00:20:31.117 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.Manufacturer Manufacturer     Manufacturer    
+[2020-11-15 00:49:24.435 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.Manufacturer Manufacturer     Manufacturer    
 
-[2020-11-15 00:20:31.117 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.Model Model            Model           
+[2020-11-15 00:49:24.435 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.Model Model            Model           
 
-[2020-11-15 00:20:31.117 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.RevisionCounter RevisionCounter  RevisionCounter 
+[2020-11-15 00:49:24.435 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.RevisionCounter RevisionCounter  RevisionCounter 
 
-[2020-11-15 00:20:31.117 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.SerialNumber SerialNumber     SerialNumber    
+[2020-11-15 00:49:24.435 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.SerialNumber SerialNumber     SerialNumber    
 
-[2020-11-15 00:20:31.117 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.SoftwareRevision SoftwareRevision SoftwareRevision
+[2020-11-15 00:49:24.435 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.SoftwareRevision SoftwareRevision SoftwareRevision
 
-[2020-11-15 00:20:31.117 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.AccessVars AccessVars       AccessVars      
+[2020-11-15 00:49:24.435 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.AccessVars AccessVars       AccessVars      
 
-[2020-11-15 00:20:31.124 (UTC+0100)] */*	Browse response
-[2020-11-15 00:20:31.124 (UTC+0100)] */*	resp:0
-[2020-11-15 00:20:31.124 (UTC+0100)] */*	N) 2         1005             FunctionalGroupType FunctionalGroupType
+[2020-11-15 00:49:24.442 (UTC+0100)] */*	Browse response
+[2020-11-15 00:49:24.442 (UTC+0100)] */*	resp:0
+[2020-11-15 00:49:24.442 (UTC+0100)] */*	N) 2         1005             FunctionalGroupType FunctionalGroupType
 
-[2020-11-15 00:20:31.124 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.Configuration Configuration    Configuration   
+[2020-11-15 00:49:24.442 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.Configuration Configuration    Configuration   
 
-[2020-11-15 00:20:31.131 (UTC+0100)] */*	Browse response
-[2020-11-15 00:20:31.131 (UTC+0100)] */*	resp:0
-[2020-11-15 00:20:31.131 (UTC+0100)] */*	N) 2         1005             FunctionalGroupType FunctionalGroupType
+[2020-11-15 00:49:24.448 (UTC+0100)] */*	Browse response
+[2020-11-15 00:49:24.448 (UTC+0100)] */*	resp:0
+[2020-11-15 00:49:24.448 (UTC+0100)] */*	N) 2         1005             FunctionalGroupType FunctionalGroupType
 
-[2020-11-15 00:20:31.131 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.ConfigVars ConfigVars       ConfigVars      
+[2020-11-15 00:49:24.448 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.ConfigVars ConfigVars       ConfigVars      
 
-[2020-11-15 00:20:31.138 (UTC+0100)] */*	Browse response
-[2020-11-15 00:20:31.138 (UTC+0100)] */*	resp:0
-[2020-11-15 00:20:31.138 (UTC+0100)] */*	N) 2         1005             FunctionalGroupType FunctionalGroupType
+[2020-11-15 00:49:24.455 (UTC+0100)] */*	Browse response
+[2020-11-15 00:49:24.455 (UTC+0100)] */*	resp:0
+[2020-11-15 00:49:24.455 (UTC+0100)] */*	N) 2         1005             FunctionalGroupType FunctionalGroupType
 
-[2020-11-15 00:20:31.138 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.Diagnostic Diagnostic       Diagnostic      
+[2020-11-15 00:49:24.455 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.Diagnostic Diagnostic       Diagnostic      
 
-[2020-11-15 00:20:31.145 (UTC+0100)] */*	Browse response
-[2020-11-15 00:20:31.145 (UTC+0100)] */*	resp:0
-[2020-11-15 00:20:31.145 (UTC+0100)] */*	N) 2         1005             FunctionalGroupType FunctionalGroupType
+[2020-11-15 00:49:24.461 (UTC+0100)] */*	Browse response
+[2020-11-15 00:49:24.461 (UTC+0100)] */*	resp:0
+[2020-11-15 00:49:24.461 (UTC+0100)] */*	N) 2         1005             FunctionalGroupType FunctionalGroupType
 
-[2020-11-15 00:20:31.145 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.GlobalVars GlobalVars       GlobalVars      
+[2020-11-15 00:49:24.461 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.GlobalVars GlobalVars       GlobalVars      
 
-[2020-11-15 00:20:31.152 (UTC+0100)] */*	Browse response
-[2020-11-15 00:20:31.152 (UTC+0100)] */*	resp:0
-[2020-11-15 00:20:31.152 (UTC+0100)] */*	N) 2         1005             FunctionalGroupType FunctionalGroupType
+[2020-11-15 00:49:24.468 (UTC+0100)] */*	Browse response
+[2020-11-15 00:49:24.468 (UTC+0100)] */*	resp:0
+[2020-11-15 00:49:24.468 (UTC+0100)] */*	N) 2         1005             FunctionalGroupType FunctionalGroupType
 
-[2020-11-15 00:20:31.152 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.Resources Resources        Resources       
+[2020-11-15 00:49:24.468 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.Resources Resources        Resources       
 
-[2020-11-15 00:20:31.159 (UTC+0100)] */*	Browse response
-[2020-11-15 00:20:31.159 (UTC+0100)] */*	resp:0
-[2020-11-15 00:20:31.159 (UTC+0100)] */*	N) 2         1004             ConfigurableObjectType ConfigurableObjectType
+[2020-11-15 00:49:24.475 (UTC+0100)] */*	Browse response
+[2020-11-15 00:49:24.475 (UTC+0100)] */*	resp:0
+[2020-11-15 00:49:24.475 (UTC+0100)] */*	N) 2         1004             ConfigurableObjectType ConfigurableObjectType
 
-[2020-11-15 00:20:31.159 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.Resources.SupportedTypes SupportedTypes   SupportedTypes  
+[2020-11-15 00:49:24.475 (UTC+0100)] */*	oBjS) 1         DefaultConfiguration.Resources.SupportedTypes SupportedTypes   SupportedTypes  
 
-[2020-11-15 00:20:31.166 (UTC+0100)] */*	Browse response
-[2020-11-15 00:20:31.166 (UTC+0100)] */*	resp:0
-[2020-11-15 00:20:31.166 (UTC+0100)] */*	N) 0         61               FolderType       FolderType      
+[2020-11-15 00:49:24.481 (UTC+0100)] */*	Browse response
+[2020-11-15 00:49:24.481 (UTC+0100)] */*	resp:0
+[2020-11-15 00:49:24.481 (UTC+0100)] */*	N) 0         61               FolderType       FolderType      
 
-[2020-11-15 00:20:31.166 (UTC+0100)] */*	N) 1         1000             BeckhoffPlcType  BeckhoffPlcType 
+[2020-11-15 00:49:24.481 (UTC+0100)] */*	N) 1         1000             BeckhoffPlcType  BeckhoffPlcType 
 
-[2020-11-15 00:20:31.166 (UTC+0100)] */*	oBjS) 1         PLC1             PLC1             PLC1            
+[2020-11-15 00:49:24.481 (UTC+0100)] */*	oBjS) 1         PLC1             PLC1             PLC1            
 
-[2020-11-15 00:20:31.174 (UTC+0100)] */*	Browse response
-[2020-11-15 00:20:31.174 (UTC+0100)] */*	resp:0
-[2020-11-15 00:20:31.174 (UTC+0100)] */*	N) 1         1000             BeckhoffPlcType  BeckhoffPlcType 
+[2020-11-15 00:49:24.489 (UTC+0100)] */*	Browse response
+[2020-11-15 00:49:24.489 (UTC+0100)] */*	resp:0
+[2020-11-15 00:49:24.489 (UTC+0100)] */*	N) 1         1000             BeckhoffPlcType  BeckhoffPlcType 
 
-[2020-11-15 00:20:31.174 (UTC+0100)] */*	oBjS) 1         PLC1.DeviceManual DeviceManual     DeviceManual    
+[2020-11-15 00:49:24.489 (UTC+0100)] */*	oBjS) 1         PLC1.DeviceManual DeviceManual     DeviceManual    
 
-[2020-11-15 00:20:31.174 (UTC+0100)] */*	oBjS) 1         PLC1.DeviceRevision DeviceRevision   DeviceRevision  
+[2020-11-15 00:49:24.489 (UTC+0100)] */*	oBjS) 1         PLC1.DeviceRevision DeviceRevision   DeviceRevision  
 
-[2020-11-15 00:20:31.174 (UTC+0100)] */*	oBjS) 1         PLC1.HardwareRevision HardwareRevision HardwareRevision
+[2020-11-15 00:49:24.489 (UTC+0100)] */*	oBjS) 1         PLC1.HardwareRevision HardwareRevision HardwareRevision
 
-[2020-11-15 00:20:31.174 (UTC+0100)] */*	oBjS) 1         PLC1.Manufacturer Manufacturer     Manufacturer    
+[2020-11-15 00:49:24.489 (UTC+0100)] */*	oBjS) 1         PLC1.Manufacturer Manufacturer     Manufacturer    
 
-[2020-11-15 00:20:31.174 (UTC+0100)] */*	oBjS) 1         PLC1.Model       Model            Model           
+[2020-11-15 00:49:24.489 (UTC+0100)] */*	oBjS) 1         PLC1.Model       Model            Model           
 
-[2020-11-15 00:20:31.174 (UTC+0100)] */*	oBjS) 1         PLC1.RevisionCounter RevisionCounter  RevisionCounter 
+[2020-11-15 00:49:24.489 (UTC+0100)] */*	oBjS) 1         PLC1.RevisionCounter RevisionCounter  RevisionCounter 
 
-[2020-11-15 00:20:31.174 (UTC+0100)] */*	oBjS) 1         PLC1.SerialNumber SerialNumber     SerialNumber    
+[2020-11-15 00:49:24.489 (UTC+0100)] */*	oBjS) 1         PLC1.SerialNumber SerialNumber     SerialNumber    
 
-[2020-11-15 00:20:31.174 (UTC+0100)] */*	oBjS) 1         PLC1.SoftwareRevision SoftwareRevision SoftwareRevision
+[2020-11-15 00:49:24.489 (UTC+0100)] */*	oBjS) 1         PLC1.SoftwareRevision SoftwareRevision SoftwareRevision
 
-[2020-11-15 00:20:31.174 (UTC+0100)] */*	oBjS) 1         PLC1.Programs    Programs         Programs        
+[2020-11-15 00:49:24.489 (UTC+0100)] */*	oBjS) 1         PLC1.Programs    Programs         Programs        
 
-[2020-11-15 00:20:31.181 (UTC+0100)] */*	Browse response
-[2020-11-15 00:20:31.181 (UTC+0100)] */*	resp:0
-[2020-11-15 00:20:31.181 (UTC+0100)] */*	N) 2         1004             ConfigurableObjectType ConfigurableObjectType
+[2020-11-15 00:49:24.508 (UTC+0100)] */*	Browse response
+[2020-11-15 00:49:24.508 (UTC+0100)] */*	resp:0
+[2020-11-15 00:49:24.508 (UTC+0100)] */*	N) 2         1004             ConfigurableObjectType ConfigurableObjectType
 
-[2020-11-15 00:20:31.181 (UTC+0100)] */*	oBjS) 1         PLC1.Programs.SupportedTypes SupportedTypes   SupportedTypes  
+[2020-11-15 00:49:24.508 (UTC+0100)] */*	oBjS) 1         PLC1.Programs.SupportedTypes SupportedTypes   SupportedTypes  
 
-[2020-11-15 00:20:31.189 (UTC+0100)] */*	Browse response
-[2020-11-15 00:20:31.189 (UTC+0100)] */*	resp:0
-[2020-11-15 00:20:31.189 (UTC+0100)] */*	N) 0         61               FolderType       FolderType      
+[2020-11-15 00:49:24.516 (UTC+0100)] */*	Browse response
+[2020-11-15 00:49:24.516 (UTC+0100)] */*	resp:0
+[2020-11-15 00:49:24.516 (UTC+0100)] */*	N) 0         61               FolderType       FolderType      
 
-[2020-11-15 00:20:31.189 (UTC+0100)] */*	oBjS) 1         PLC1.Tasks       Tasks            Tasks           
+[2020-11-15 00:49:24.516 (UTC+0100)] */*	oBjS) 1         PLC1.Tasks       Tasks            Tasks           
 
-[2020-11-15 00:20:31.196 (UTC+0100)] */*	Browse response
-[2020-11-15 00:20:31.196 (UTC+0100)] */*	resp:0
-[2020-11-15 00:20:31.196 (UTC+0100)] */*	N) 2         1004             ConfigurableObjectType ConfigurableObjectType
+[2020-11-15 00:49:24.525 (UTC+0100)] */*	Browse response
+[2020-11-15 00:49:24.525 (UTC+0100)] */*	resp:0
+[2020-11-15 00:49:24.525 (UTC+0100)] */*	N) 2         1004             ConfigurableObjectType ConfigurableObjectType
 
-[2020-11-15 00:20:31.196 (UTC+0100)] */*	oBjS) 1         PLC1.Tasks.SupportedTypes SupportedTypes   SupportedTypes  
+[2020-11-15 00:49:24.525 (UTC+0100)] */*	oBjS) 1         PLC1.Tasks.SupportedTypes SupportedTypes   SupportedTypes  
 
-[2020-11-15 00:20:31.206 (UTC+0100)] */*	Browse response
-[2020-11-15 00:20:31.206 (UTC+0100)] */*	resp:0
-[2020-11-15 00:20:31.206 (UTC+0100)] */*	N) 0         61               FolderType       FolderType      
+[2020-11-15 00:49:24.532 (UTC+0100)] */*	Browse response
+[2020-11-15 00:49:24.532 (UTC+0100)] */*	resp:0
+[2020-11-15 00:49:24.532 (UTC+0100)] */*	N) 0         61               FolderType       FolderType      
 
-[2020-11-15 00:20:31.206 (UTC+0100)] */*	N) 4         20737            DeviceState      DeviceState     
+[2020-11-15 00:49:24.532 (UTC+0100)] */*	N) 4         20737            DeviceState      DeviceState     
 
-[2020-11-15 00:20:31.248 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.249 (UTC+0100)] */*	S) 1         PLC1             PLC1             PLC1            
+[2020-11-15 00:49:24.542 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.542 (UTC+0100)] */*	S) 1         PLC1             PLC1             PLC1            
 
-[2020-11-15 00:20:31.257 (UTC+0100)] */*	Browse response
-[2020-11-15 00:20:31.257 (UTC+0100)] */*	resp:0
-[2020-11-15 00:20:31.257 (UTC+0100)] */*	N) 1         1000             BeckhoffPlcType  BeckhoffPlcType 
+[2020-11-15 00:49:24.552 (UTC+0100)] */*	Browse response
+[2020-11-15 00:49:24.552 (UTC+0100)] */*	resp:0
+[2020-11-15 00:49:24.552 (UTC+0100)] */*	N) 1         1000             BeckhoffPlcType  BeckhoffPlcType 
 
-[2020-11-15 00:20:31.257 (UTC+0100)] */*	oBjS) 1         PLC1.DeviceManual DeviceManual     DeviceManual    
+[2020-11-15 00:49:24.552 (UTC+0100)] */*	oBjS) 1         PLC1.DeviceManual DeviceManual     DeviceManual    
 
-[2020-11-15 00:20:31.257 (UTC+0100)] */*	oBjS) 1         PLC1.DeviceRevision DeviceRevision   DeviceRevision  
+[2020-11-15 00:49:24.552 (UTC+0100)] */*	oBjS) 1         PLC1.DeviceRevision DeviceRevision   DeviceRevision  
 
-[2020-11-15 00:20:31.257 (UTC+0100)] */*	oBjS) 1         PLC1.HardwareRevision HardwareRevision HardwareRevision
+[2020-11-15 00:49:24.552 (UTC+0100)] */*	oBjS) 1         PLC1.HardwareRevision HardwareRevision HardwareRevision
 
-[2020-11-15 00:20:31.257 (UTC+0100)] */*	oBjS) 1         PLC1.Manufacturer Manufacturer     Manufacturer    
+[2020-11-15 00:49:24.552 (UTC+0100)] */*	oBjS) 1         PLC1.Manufacturer Manufacturer     Manufacturer    
 
-[2020-11-15 00:20:31.257 (UTC+0100)] */*	oBjS) 1         PLC1.Model       Model            Model           
+[2020-11-15 00:49:24.552 (UTC+0100)] */*	oBjS) 1         PLC1.Model       Model            Model           
 
-[2020-11-15 00:20:31.257 (UTC+0100)] */*	oBjS) 1         PLC1.RevisionCounter RevisionCounter  RevisionCounter 
+[2020-11-15 00:49:24.552 (UTC+0100)] */*	oBjS) 1         PLC1.RevisionCounter RevisionCounter  RevisionCounter 
 
-[2020-11-15 00:20:31.257 (UTC+0100)] */*	oBjS) 1         PLC1.SerialNumber SerialNumber     SerialNumber    
+[2020-11-15 00:49:24.552 (UTC+0100)] */*	oBjS) 1         PLC1.SerialNumber SerialNumber     SerialNumber    
 
-[2020-11-15 00:20:31.257 (UTC+0100)] */*	oBjS) 1         PLC1.SoftwareRevision SoftwareRevision SoftwareRevision
+[2020-11-15 00:49:24.552 (UTC+0100)] */*	oBjS) 1         PLC1.SoftwareRevision SoftwareRevision SoftwareRevision
 
-[2020-11-15 00:20:31.257 (UTC+0100)] */*	oBjS) 1         PLC1.Programs    Programs         Programs        
+[2020-11-15 00:49:24.552 (UTC+0100)] */*	oBjS) 1         PLC1.Programs    Programs         Programs        
 
-[2020-11-15 00:20:31.263 (UTC+0100)] */*	Browse response
-[2020-11-15 00:20:31.263 (UTC+0100)] */*	resp:0
-[2020-11-15 00:20:31.263 (UTC+0100)] */*	N) 2         1004             ConfigurableObjectType ConfigurableObjectType
+[2020-11-15 00:49:24.559 (UTC+0100)] */*	Browse response
+[2020-11-15 00:49:24.559 (UTC+0100)] */*	resp:0
+[2020-11-15 00:49:24.559 (UTC+0100)] */*	N) 2         1004             ConfigurableObjectType ConfigurableObjectType
 
-[2020-11-15 00:20:31.263 (UTC+0100)] */*	oBjS) 1         PLC1.Programs.SupportedTypes SupportedTypes   SupportedTypes  
+[2020-11-15 00:49:24.559 (UTC+0100)] */*	oBjS) 1         PLC1.Programs.SupportedTypes SupportedTypes   SupportedTypes  
 
-[2020-11-15 00:20:31.270 (UTC+0100)] */*	Browse response
-[2020-11-15 00:20:31.270 (UTC+0100)] */*	resp:0
-[2020-11-15 00:20:31.270 (UTC+0100)] */*	N) 0         61               FolderType       FolderType      
+[2020-11-15 00:49:24.566 (UTC+0100)] */*	Browse response
+[2020-11-15 00:49:24.566 (UTC+0100)] */*	resp:0
+[2020-11-15 00:49:24.566 (UTC+0100)] */*	N) 0         61               FolderType       FolderType      
 
-[2020-11-15 00:20:31.270 (UTC+0100)] */*	oBjS) 1         PLC1.Tasks       Tasks            Tasks           
+[2020-11-15 00:49:24.566 (UTC+0100)] */*	oBjS) 1         PLC1.Tasks       Tasks            Tasks           
 
-[2020-11-15 00:20:31.278 (UTC+0100)] */*	Browse response
-[2020-11-15 00:20:31.278 (UTC+0100)] */*	resp:0
-[2020-11-15 00:20:31.278 (UTC+0100)] */*	N) 2         1004             ConfigurableObjectType ConfigurableObjectType
+[2020-11-15 00:49:24.574 (UTC+0100)] */*	Browse response
+[2020-11-15 00:49:24.574 (UTC+0100)] */*	resp:0
+[2020-11-15 00:49:24.574 (UTC+0100)] */*	N) 2         1004             ConfigurableObjectType ConfigurableObjectType
 
-[2020-11-15 00:20:31.278 (UTC+0100)] */*	oBjS) 1         PLC1.Tasks.SupportedTypes SupportedTypes   SupportedTypes  
+[2020-11-15 00:49:24.574 (UTC+0100)] */*	oBjS) 1         PLC1.Tasks.SupportedTypes SupportedTypes   SupportedTypes  
 
-[2020-11-15 00:20:31.285 (UTC+0100)] */*	Browse response
-[2020-11-15 00:20:31.285 (UTC+0100)] */*	resp:0
-[2020-11-15 00:20:31.285 (UTC+0100)] */*	N) 0         61               FolderType       FolderType      
+[2020-11-15 00:49:24.581 (UTC+0100)] */*	Browse response
+[2020-11-15 00:49:24.581 (UTC+0100)] */*	resp:0
+[2020-11-15 00:49:24.581 (UTC+0100)] */*	N) 0         61               FolderType       FolderType      
 
-[2020-11-15 00:20:31.285 (UTC+0100)] */*	N) 4         20737            DeviceState      DeviceState     
+[2020-11-15 00:49:24.581 (UTC+0100)] */*	N) 4         20737            DeviceState      DeviceState     
 
-[2020-11-15 00:20:31.291 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.291 (UTC+0100)] */*	N) 6         16               Configuration    Configuration   
+[2020-11-15 00:49:24.588 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.588 (UTC+0100)] */*	N) 6         16               Configuration    Configuration   
 
-[2020-11-15 00:20:31.298 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.305 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.313 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.320 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.327 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.334 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.342 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.349 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.359 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.367 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.374 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.382 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.398 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.405 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.412 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.421 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.428 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.435 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.442 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.450 (UTC+0100)] */*	Browse Args
-[2020-11-15 00:20:31.457 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.595 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.602 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.609 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.616 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.623 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.631 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.640 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.648 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.655 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.663 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.670 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.678 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.686 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.693 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.700 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.707 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.714 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.721 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.728 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.735 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:24.742 (UTC+0100)] */*	Browse Args
+[2020-11-15 00:49:32.590 (UTC+0100)] */*	Browse method object
+[2020-11-15 00:49:38.921 (UTC+0100)] */*	read 16777733.OpenCount
+
+[2020-11-15 00:49:38.944 (UTC+0100)] */*	RD) read OpenCount ok
+
+[2020-11-15 00:49:40.043 (UTC+0100)] */*	read 16777733.Size
+
+[2020-11-15 00:49:40.051 (UTC+0100)] */*	RD) read Size ok
+
+[2020-11-15 00:49:42.527 (UTC+0100)] */*	read PLC1.Model
+
+[2020-11-15 00:49:42.595 (UTC+0100)] */*	RD) read Model ok
+
+[2020-11-15 00:49:43.363 (UTC+0100)] */*	read PLC1.Manufacturer
+
+[2020-11-15 00:49:43.414 (UTC+0100)] */*	RD) read Manufacturer ok
+
