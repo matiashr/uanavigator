@@ -56,7 +56,7 @@ INSTALL_DATA = $(INSTALL) -m 644
 # Append pkg-config specific libraries if need be
 ifneq ($(LIBS),)
 	COMPILE_FLAGS += $(shell pkg-config --cflags $(LIBS))
-	LINK_FLAGS += $(shell pkg-config --libs $(LIBS))
+	LINK_FLAGS += $(shell pkg-config --libs $(LIBS)) -static
 endif
 
 # Verbose option, to output compile and link commands

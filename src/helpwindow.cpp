@@ -19,6 +19,8 @@
 * <http://www.gnu.org/licenses/>.                                      	*
 *************************************************************************/
 #include "helpwindow.h"
+#include "main.h"
+#include "open62541.h"
 namespace fc = finalcut::fc;
 using finalcut::FPoint;
 using finalcut::FSize;
@@ -39,10 +41,12 @@ HelpWindow::HelpWindow (finalcut::FWidget* parent) : BaseWindow{parent}
 
 	//zoomWindow();
 	m_text 
-		<< "------------------------------------\n"
-		<< "-      UA Navigator                -\n"
-		<< "- Matias Henttunen 2020 (c)        -\n"
-		<< "------------------------------------\n"
+		<< "--------------------------------------------------\n"
+		<< "     UA Navigator                \n"
+		<< "     Version: " << APP_VERSION << "\n"
+		<< "     open62541:: " << UA_OPEN62541_VER_COMMIT << UA_OPEN62541_VER_LABEL  << "\n"
+		<< "     Matias Henttunen 2020 (c)        \n"
+		<< "--------------------------------------------------\n"
 		<< "<F10>            Activate menu bar\n"
 		<< "<F1>             Show selected\n"
 		<< "<F3>             Set value of selected\n"
