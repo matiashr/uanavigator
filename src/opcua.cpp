@@ -956,10 +956,10 @@ bool OpcUa::callMethod( uamodel::Object* a_object,
 		UA_LOG_INFO( &m_logger, UA_LOGCATEGORY_USERLAND,"Invalid node" );
 		status = true;
 		for(size_t i=0; i< outputSize; i++) {		
-			UA_Variant *output = &output[i];
-			if( UA_Variant_isScalar( output ) ) {
+			UA_Variant *oarg= &output[i];
+			if( UA_Variant_isScalar( oarg ) ) {
 				// builtin type
-				std::string value = UaVariant2String( output );
+				std::string value = UaVariant2String( oarg );
 				r_outputs.push_back( value );
 			} else {
 				//TODO: array type

@@ -46,6 +46,8 @@ class ServerDialog final : public BaseWindow
 		finalcut::FListBox infolist{this};
 		finalcut::FListViewItem::iterator current;
 		finalcut::FLabel m_status{this};
+	private:
+		bool liveMonitoring;
 		uamodel::Object m_dict;
 		OpcUa* m_connection;
 };

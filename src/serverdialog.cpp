@@ -59,6 +59,7 @@ ServerDialog::ServerDialog(finalcut::FWidget* parent, OpcUa* a_connection)
 	} else {
 		finalcut::FMessageBox::info ( this , "Error" , "Failed to browse target");	
 	}
+	liveMonitoring=false;		//set to true, to auto update, however will be slower ui
 
 }
  
@@ -84,12 +85,26 @@ void ServerDialog::onTimer (finalcut::FTimerEvent*) {
 	}
 	n++;
 	std::string msg;
+
 	m_connection->execute();
 	if( !m_connection->isConnected( msg ) ) {
 		finalcut::FMessageBox::info ( this , "Error" , "Server is not connected");	
 		m_status="Not connected to server";
 	} else {
 		m_status="Established: "+alive;
+	}
+	if( liveMonitoring )
+	{
+		auto selected = listview.getCurrentItem();	
+		if( std::string(selected->getText(1).c_str()).find("opc.tcp://") == string::npos ) {
+			std::string value;
+
+			uamodel::Object obj = selected->getData<uamodel::Object>();
+			if(!m_connection->readVariable( obj, value) ) {
+				finalcut::FMessageBox::info ( this , "Error" , "Failed to read current value");	
+			}
+			showInfo( obj ); 
+		}
 	}
 	redraw();
 }
