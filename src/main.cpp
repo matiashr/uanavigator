@@ -49,18 +49,29 @@ void connectTo(std::string a_remote)
 
 int main (int argc, char* argv[])
 {
+	std::string srv="";
+	for(int i=1; i < argc; i++ ) {
+		std::string arg = argv[i];
+		if( arg == "--h" ) {
+			std::cout << "Usage: " << argv[0] << " " << "\
+-server opc://<servername|ip>:4840\n\
+-h gui options\n\
+--help this help\n\
+If noargs are provided, gui will show up\n";
+			exit(0);
+		} else if( arg.find("-server",0) == 0 ) {
+			srv = argv[i+1];
+			std::cout << "USING SERVER: " << srv << "\n" ;
+			break;
+		}
+	}
 	finalcut::FApplication app {argc, argv};
 	g_mainWindow = new MainWindow(&app);
 	g_mainWindow->setText ("UA Navigator");
 	finalcut::FWidget::setMainWidget (g_mainWindow);
 	g_mainWindow->show();
-
-	if( argc > 1 ) {
-		if( *argv[1] == 'h' ) {
-			std::cout << "Usage: " << argv[0] << "opc://<servername/ip>:4840\n If noargs are provided, gui will show up\n";
-			app.exit();
-		}
-		connectTo( argv[1] );
+	if( srv !="") {
+		connectTo( srv );
 	}
 	finalcut::FWidget::setMainWidget(g_mainWindow);
 	return app.exec();

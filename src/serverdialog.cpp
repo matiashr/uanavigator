@@ -30,16 +30,17 @@ using namespace uamodel;
 ServerDialog::ServerDialog(finalcut::FWidget* parent, OpcUa* a_connection)
   : BaseWindow{parent}, m_connection(a_connection)
 {
+	int width=80;	//160
 	setText ("OPC-UA Server connection");
 	setShadow();
-	setGeometry (FPoint{1, 1}, FSize{160, 112});
+	setGeometry (FPoint{1, 1}, FSize{width, 112});
 
 	listview.setGeometry(FPoint{2, 2}, FSize{63, 63});
 	listview.addColumn ("Address space", 40);
 	listview.setColumnAlignment (0, fc::alignRight);
 	listview.setTreeView();
 
-	infolist.setGeometry(FPoint{65, 2}, FSize{160, 59});
+	infolist.setGeometry(FPoint{65, 2}, FSize{width, 59});
 	infolist.setText ("Data Access View");
 	infolist.insert("Info");
 	

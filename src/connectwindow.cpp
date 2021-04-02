@@ -52,7 +52,7 @@ ConnectWindow::ConnectWindow (finalcut::FWidget* parent) : BaseWindow{parent}
 				uint32_t port = atoi(dlg.m_port.getText().c_str());
 				if( !ua->connect( (char*)server.c_str(), port )  ) {
 					dlg.redraw();
-					finalcut::FMessageBox::info (&dlg, "Error" , "Failed to connect to: opc.tcp://"+server );
+					finalcut::FMessageBox::info (&dlg, "Error" , "Failed to connect to: "+server );
 				} else {
 				//	finalcut::FMessageBox::info (&dlg, "Info" , "connected" );
 					auto  s = new ServerDialog( getMainWindow(),  ua);
